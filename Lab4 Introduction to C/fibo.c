@@ -16,8 +16,15 @@
 
 int main(int argc, char **argv)
 {
+int magic_number = 0;
 
+  if( argc>1 ) {
+    magic_number = atoi(argv[1]);
+  } else {
+    printf("Please enter a magic number.\n");
+    return -1;
+  }
 int c;
-c=fib(8);
+c=fib(magic_number);
 printf("answer=%ld\n", c);
 }
