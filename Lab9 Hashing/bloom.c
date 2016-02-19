@@ -192,5 +192,6 @@ void main()
 		i+=1;
 	}
 	printf("falsecount=%" PRIu64 "\n", false);
+	bloom_destroy(&Bloom);
 	
 }
