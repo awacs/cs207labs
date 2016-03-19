@@ -1,0 +1,28 @@
+
+    digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    "188dd618-14e4-4518-a2fa-0398b1c59c2d" -> "1c8f0a7d-0bde-4c88-a487-d17922bb4f93"[side=left];
+"1c8f0a7d-0bde-4c88-a487-d17922bb4f93" -> "551beab2-b736-4783-b599-2904c14bb95e"[side=left];
+"1c8f0a7d-0bde-4c88-a487-d17922bb4f93" -> "897d6cbb-4e8b-449a-8ae3-5b1425758295"[side=right];
+"897d6cbb-4e8b-449a-8ae3-5b1425758295" -> "adc0f81a-b2d4-4a75-a5f6-4e99aa0263a1"[side=left];
+"adc0f81a-b2d4-4a75-a5f6-4e99aa0263a1" -> "82d43610-3660-4fb7-b63a-442006ab89a2"[side=left];
+"82d43610-3660-4fb7-b63a-442006ab89a2" -> "bc272bb4-76f1-43f0-a9d4-d80d1ad5342e"[side=right];
+"897d6cbb-4e8b-449a-8ae3-5b1425758295" -> "dc5a62a4-87df-4de2-85fc-68438c67392d"[side=right];
+"188dd618-14e4-4518-a2fa-0398b1c59c2d" -> "46989dfc-3d2d-4ff1-a1ff-075c00018630"[side=right];
+"46989dfc-3d2d-4ff1-a1ff-075c00018630" -> "ecd35835-a798-4911-a4e5-34830a7eee31"[side=left];
+"46989dfc-3d2d-4ff1-a1ff-075c00018630" -> "7a7c2777-21d2-4b09-9493-70db23f4952b"[side=right];
+"551beab2-b736-4783-b599-2904c14bb95e"[label=<2<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"82d43610-3660-4fb7-b63a-442006ab89a2"[label=<7<BR/><FONT POINT-SIZE="10">2,1</FONT>>]
+"bc272bb4-76f1-43f0-a9d4-d80d1ad5342e"[label=<8<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"7a7c2777-21d2-4b09-9493-70db23f4952b"[label=<38<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"ecd35835-a798-4911-a4e5-34830a7eee31"[label=<29<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"188dd618-14e4-4518-a2fa-0398b1c59c2d"[label=<17<BR/><FONT POINT-SIZE="10">11,1</FONT>>]
+"adc0f81a-b2d4-4a75-a5f6-4e99aa0263a1"[label=<9<BR/><FONT POINT-SIZE="10">3,1</FONT>>]
+"897d6cbb-4e8b-449a-8ae3-5b1425758295"[label=<11<BR/><FONT POINT-SIZE="10">5,1</FONT>>]
+"dc5a62a4-87df-4de2-85fc-68438c67392d"[label=<16<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"46989dfc-3d2d-4ff1-a1ff-075c00018630"[label=<35<BR/><FONT POINT-SIZE="10">3,1</FONT>>]
+"1c8f0a7d-0bde-4c88-a487-d17922bb4f93"[label=<5<BR/><FONT POINT-SIZE="10">7,1</FONT>>]}
